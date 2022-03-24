@@ -1,0 +1,303 @@
+{
+	"dictionary" : 
+	[
+		{
+			"0" : "C",
+			"1" : "I",
+			"2" : "G",
+			"3" : "A",
+			"4" : "R",
+			"valid" : false,
+			"word" : "CIGAR"
+		},
+		{
+			"0" : "R",
+			"1" : "E",
+			"2" : "B",
+			"3" : "U",
+			"4" : "T",
+			"valid" : false,
+			"word" : "REBUT"
+		},
+		{
+			"0" : "S",
+			"1" : "I",
+			"2" : "S",
+			"3" : "S",
+			"4" : "Y",
+			"valid" : false,
+			"word" : "SISSY"
+		},
+		{
+			"0" : "H",
+			"1" : "U",
+			"2" : "M",
+			"3" : "P",
+			"4" : "H",
+			"valid" : false,
+			"word" : "HUMPH"
+		},
+		{
+			"0" : "A",
+			"1" : "W",
+			"2" : "A",
+			"3" : "K",
+			"4" : "E",
+			"valid" : false,
+			"word" : "AWAKE"
+		},
+		{
+			"0" : "B",
+			"1" : "L",
+			"2" : "U",
+			"3" : "S",
+			"4" : "H",
+			"valid" : false,
+			"word" : "BLUSH"
+		},
+		{
+			"0" : "F",
+			"1" : "O",
+			"2" : "C",
+			"3" : "A",
+			"4" : "L",
+			"valid" : false,
+			"word" : "FOCAL"
+		},
+		{
+			"0" : "E",
+			"1" : "V",
+			"2" : "A",
+			"3" : "D",
+			"4" : "E",
+			"valid" : false,
+			"word" : "EVADE"
+		},
+		{
+			"0" : "N",
+			"1" : "A",
+			"2" : "V",
+			"3" : "A",
+			"4" : "L",
+			"valid" : false,
+			"word" : "NAVAL"
+		},
+		{
+			"0" : "S",
+			"1" : "E",
+			"2" : "R",
+			"3" : "V",
+			"4" : "E",
+			"valid" : false,
+			"word" : "SERVE"
+		},
+		{
+			"0" : "H",
+			"1" : "E",
+			"2" : "A",
+			"3" : "T",
+			"4" : "H",
+			"valid" : false,
+			"word" : "HEATH"
+		},
+		{
+			"0" : "D",
+			"1" : "W",
+			"2" : "A",
+			"3" : "R",
+			"4" : "F",
+			"valid" : false,
+			"word" : "DWARF"
+		},
+		{
+			"0" : "M",
+			"1" : "O",
+			"2" : "D",
+			"3" : "E",
+			"4" : "L",
+			"valid" : false,
+			"word" : "MODEL"
+		},
+		{
+			"0" : "K",
+			"1" : "A",
+			"2" : "R",
+			"3" : "M",
+			"4" : "A",
+			"valid" : false,
+			"word" : "KARMA"
+		},
+		{
+			"0" : "S",
+			"1" : "T",
+			"2" : "I",
+			"3" : "N",
+			"4" : "K",
+			"valid" : false,
+			"word" : "STINK"
+		},
+		{
+			"0" : "G",
+			"1" : "R",
+			"2" : "A",
+			"3" : "D",
+			"4" : "E",
+			"valid" : false,
+			"word" : "GRADE"
+		},
+		{
+			"0" : "Q",
+			"1" : "U",
+			"2" : "I",
+			"3" : "E",
+			"4" : "T",
+			"valid" : false,
+			"word" : "QUIET"
+		},
+		{
+			"0" : "B",
+			"1" : "E",
+			"2" : "N",
+			"3" : "C",
+			"4" : "H",
+			"valid" : false,
+			"word" : "BENCH"
+		},
+		{
+			"0" : "A",
+			"1" : "B",
+			"2" : "A",
+			"3" : "T",
+			"4" : "E",
+			"valid" : false,
+			"word" : "ABATE"
+		},
+		{
+			"0" : "F",
+			"1" : "E",
+			"2" : "I",
+			"3" : "G",
+			"4" : "N",
+			"valid" : false,
+			"word" : "FEIGN"
+		},
+		{
+			"0" : "M",
+			"1" : "A",
+			"2" : "J",
+			"3" : "O",
+			"4" : "R",
+			"valid" : false,
+			"word" : "MAJOR"
+		},
+		{
+			"0" : "D",
+			"1" : "E",
+			"2" : "A",
+			"3" : "T",
+			"4" : "H",
+			"valid" : false,
+			"word" : "DEATH"
+		},
+		{
+			"0" : "F",
+			"1" : "R",
+			"2" : "E",
+			"3" : "S",
+			"4" : "H",
+			"valid" : false,
+			"word" : "FRESH"
+		},
+		{
+			"0" : "C",
+			"1" : "R",
+			"2" : "U",
+			"3" : "S",
+			"4" : "T",
+			"valid" : false,
+			"word" : "CRUST"
+		},
+		{
+			"0" : "S",
+			"1" : "T",
+			"2" : "O",
+			"3" : "O",
+			"4" : "L",
+			"valid" : false,
+			"word" : "STOOL"
+		},
+		{
+			"0" : "C",
+			"1" : "O",
+			"2" : "L",
+			"3" : "O",
+			"4" : "N",
+			"valid" : false,
+			"word" : "COLON"
+		},
+		{
+			"0" : "A",
+			"1" : "B",
+			"2" : "A",
+			"3" : "S",
+			"4" : "E",
+			"valid" : false,
+			"word" : "ABASE"
+		},
+		{
+			"0" : "M",
+			"1" : "A",
+			"2" : "R",
+			"3" : "R",
+			"4" : "Y",
+			"valid" : false,
+			"word" : "MARRY"
+		},
+		{
+			"0" : "R",
+			"1" : "E",
+			"2" : "A",
+			"3" : "C",
+			"4" : "T",
+			"valid" : false,
+			"word" : "REACT"
+		},
+		{
+			"0" : "B",
+			"1" : "A",
+			"2" : "T",
+			"3" : "T",
+			"4" : "Y",
+			"valid" : false,
+			"word" : "BATTY"
+		},
+		{
+			"0" : "P",
+			"1" : "R",
+			"2" : "I",
+			"3" : "D",
+			"4" : "E",
+			"valid" : false,
+			"word" : "PRIDE"
+		},
+		{
+			"0" : "F",
+			"1" : "L",
+			"2" : "O",
+			"3" : "S",
+			"4" : "S",
+			"valid" : false,
+			"word" : "FLOSS"
+		},
+		{
+			"0" : "H",
+			"1" : "E",
+			"2" : "L",
+			"3" : "I",
+			"4" : "X",
+			"valid" : false,
+			"word" : "HELIX"
+		}
+	],
+	"word length" : 5
+}

@@ -144,7 +144,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="dist\jsoncpp.cpp" />
-    <ClCompile Include="JSONCPP Test.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="LetterCounter.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -152,6 +152,9 @@
     <ClInclude Include="dist\json\json.h" />
     <ClInclude Include="LetterCounter.h" />
     <ClInclude Include="ScoredWord.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Wordle List.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

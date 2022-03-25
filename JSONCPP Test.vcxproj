@@ -143,10 +143,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\WordleHelper\LetterCounter.cpp" />
     <ClCompile Include="dist\jsoncpp.cpp" />
     <ClCompile Include="JSONCPP Test.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\WordleHelper\LetterCounter.h" />
+    <ClInclude Include="..\WordleHelper\ScoredWord.h" />
     <ClInclude Include="dist\json\json-forwards.h" />
     <ClInclude Include="dist\json\json.h" />
   </ItemGroup>

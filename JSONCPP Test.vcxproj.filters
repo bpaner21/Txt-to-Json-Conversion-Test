@@ -21,12 +21,21 @@
     <ClCompile Include="dist\jsoncpp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\WordleHelper\LetterCounter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="dist\json\json.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="dist\json\json-forwards.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\WordleHelper\ScoredWord.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\WordleHelper\LetterCounter.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
